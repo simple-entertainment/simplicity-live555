@@ -25,7 +25,43 @@ Makefile
 
 # Output
 #########################
+libBasicUsageEnvironment.a
+libUsageEnvironment.a
+libgroupsock.a
+libliveMedia.a
 libsimplicity-live555.a
+live555MediaServer
+live555ProxyServer
+MPEG2TransportStreamIndexer
+openRTSP
+playSIP
+registerRTSPStream
+sapWatch
+testAMRAudioStreamer
+testDVVideoStreamer
+testH264VideoStreamer
+testH264VideoToTransportStream
+testH265VideoStreamer
+testH265VideoToTransportStream
+testMKVStreamer
+testMP3Receiver
+testMP3Streamer
+testMPEG1or2AudioVideoStreamer
+testMPEG1or2ProgramToTransportStream
+testMPEG1or2Splitter
+testMPEG1or2VideoReceiver
+testMPEG1or2VideoStreamer
+testMPEG2TransportReceiver
+testMPEG2TransportStreamTrickPlay
+testMPEG2TransportStreamer
+testMPEG4VideoStreamer
+testOggStreamer
+testOnDemandRTSPServer
+testRTSPClient
+testRelay
+testReplicator
+testWAVAudioStreamer
+vobStreamer
 
 # Visual Studio
 #########################
